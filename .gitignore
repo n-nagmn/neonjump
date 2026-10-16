@@ -1,0 +1,17 @@
+# Data files (auto-generated)
+records.json
+ghosts.json
+neonjump.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs
+*.log
